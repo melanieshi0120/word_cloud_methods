@@ -49,7 +49,8 @@ What can you bring to this role?
 Why you are a good candidate?
 What can your future teammates count on you for?
 So you can talk about your experience in data acquisition, GCP, architecting.
-
+## Conclusion
+Word Cloud is commonly used in different territories, and we also can use it for our needs. Creativity is from life and the people you love.
 
 
 
