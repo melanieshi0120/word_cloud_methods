@@ -1,6 +1,6 @@
 # Word Cloud using Tableau, Python, and Google Word Cloud Generator
 ![images/colorful-tag-cloud.png](images/colorful-tag-cloud.png)
-Word Cloud is one of the data visualization tools for text data. One of my projects is to analyze the Amazon review data (the project link)and I applied Natural Language Processing and NLTK toolkits for EDA (Exploratory Data Analysis). In this part, I figured out several ways to present and create a Word Cloud using different methods — Tableau, Python, and Google World Cloud Generator.
+Word Cloud is one of the data visualization tools for text data. One of my projects is to analyze the Amazon review data (the project link)and I applied Natural Language Processing and NLTK for text data in EDA (Exploratory Data Analysis) part. In this part, I figured out several ways to present and create a Word Cloud using different methods — Tableau, Python, and Google World Cloud Generator.
 
 ## Data and Data Preprocessing
 I created this dataset myself and this dataset was a sample for my hard-coded chatbot project. If you are interested in my chatbot project please feel free to visit my [GitHub repo](https://github.com/melanieshi0120/AI_Chatbot_Project). Let us take look at the data. This table has two columns- question and answer. And we can see that this data contains some punctuation and signs. The first thing we need to do is to pre-process this text data.
@@ -10,7 +10,7 @@ After data pre-processing with NLP, we get a list like this- Bag of words (BOW) 
 ## Python
 ![images/python.png](images/python.png)
 Python is an “easy to use” programming language. I finished all the steps of data pre-processing using python. There is a library which is called wordcloud.
-After we obtain the BOW, we can simply use wordcloud to plot a word cloud chart. Here is the python code for plotting word cloud and the bigger the words are, the higher frequency they are. For more details of code, please visit my [GitH
+After we obtain the BOW, we can simply use wordcloud to plot a word cloud chart. Here is the python code for plotting word cloud and the bigger the words are, the higher frequency they are. For more details of code, please visit my [GitHub](https://github.com/melanieshi0120/word_cloud_methods/blob/main/word_cloud_for_text_data.ipynb)
 ![images/python_wc.png](images/python_wc.png)
 ## Tableau
 - Tableau is one of the BI tools for data visualization. I like using Tableau to create dashboards because Tableau can offer very clear and fancy charts.
