@@ -1,6 +1,6 @@
 # Word Cloud using Tableau, Python, and Google Word Cloud Generator
 ![images/colorful-tag-cloud.png](images/colorful-tag-cloud.png)
-Word Cloud is one of the data visualization tools for text data. One of my projects is to analyze the Amazon review data (the project link)and I applied Natural Language Processing and NLTK for text data in EDA (Exploratory Data Analysis) part. In this part, I figured out several ways to present and create a Word Cloud using different methods — Tableau, Python, and Google World Cloud Generator.
+Word Cloud is one of the data visualization tools for text data. One of my projects is to analyze the Amazon review data (the project link)and I applied Natural Language Processing and NLTK toolkits for text data in EDA (Exploratory Data Analysis) part. In this part, I figured out several ways to present and create a Word Cloud using different methods — Tableau, Python, and Google World Cloud Generator.
 
 ## Data and Data Preprocessing
 I created this dataset myself and this dataset was a sample for my hard-coded chatbot project. If you are interested in my chatbot project please feel free to visit my [GitHub repo](https://github.com/melanieshi0120/AI_Chatbot_Project). Let us take look at the data. This table has two columns- question and answer. And we can see that this data contains some punctuation and signs. The first thing we need to do is to pre-process this text data.
